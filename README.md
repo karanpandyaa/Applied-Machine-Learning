@@ -32,7 +32,7 @@ The aims of this were:
 In this I explored methods to add a penguin classification task to our repertoire and explore trees, ensemble, and MLPs. 
 
 The aims of this were:
-Explore the impact of model complexity while applying regression trees, random forests, and boosted regression trees. 
+-Explore the impact of model complexity while applying regression trees, random forests, and boosted regression trees. 
 -Get experience with training and applying MLPs
 -Gain exposure to using correct methodologies for learning rate selection and testing
 -Get practice analyzing features and selecting and designing models for open problems
