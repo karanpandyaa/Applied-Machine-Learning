@@ -27,7 +27,7 @@ The aims of this were:
 - Be able to estimate probability functions using several methods: per-feature 1D histograms, clustering for joint histograms, and mixture of Gaussian models.
 - Be able to estimate statistics, such as mean, standard deviation, min, and max while being robust to data values that are incorrect or missing.
 
-## 4) Trees and MLPs
+## 4) [Trees and MLPs]
 
 In this I explored methods to add a penguin classification task to our repertoire and explore trees, ensemble, and MLPs. 
 
