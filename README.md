@@ -32,20 +32,20 @@ The aims of this were:
 In this I explored methods to add a penguin classification task to our repertoire and explore trees, ensemble, and MLPs. 
 
 The aims of this were:
--Explore the impact of model complexity while applying regression trees, random forests, and boosted regression trees. 
--Get experience with training and applying MLPs
--Gain exposure to using correct methodologies for learning rate selection and testing
--Get practice analyzing features and selecting and designing models for open problems
-
+- Explore the impact of model complexity while applying regression trees, random forests, and boosted regression trees. 
+- Get experience with training and applying MLPs
+- Gain exposure to using correct methodologies for learning rate selection and testing
+- Get practice analyzing features and selecting and designing models for open problems
+ 
 ## 5) Deep Learning and Applications
 
 In this, I explored application of deep learning models and adaption to custom tasks, including fine-tuning, linear probe, and zero-shot prediction.  We also introduce two new visual datasets: Oxford 102 Flower and Oxford-IIIT Pet.
 
 The aims of this were:
--Learn about an application of AI and reflect on its potential impact, good and bad. 
--Fine-tune a pretrained ImageNet network to perform a custom classification task
--Learn how to use the vision-language model CLIP to perform new classification tasks, either zero-shot, linear probe, or nearest neighbor. 
--The stretch goals offer opportunities to experiment with word tokenizers and to design a custom network.
+- Learn about an application of AI and reflect on its potential impact, good and bad. 
+- Fine-tune a pretrained ImageNet network to perform a custom classification task
+- Learn how to use the vision-language model CLIP to perform new classification tasks, either zero-shot, linear probe, or nearest neighbor. 
+- The stretch goals offer opportunities to experiment with word tokenizers and to design a custom network.
 
 
 
