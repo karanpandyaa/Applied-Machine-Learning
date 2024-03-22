@@ -10,7 +10,7 @@ The aims of this were:
 - Learn how feature representations can impact performance
 - Get practice selecting parameters using a validation set (stretch goals)
 
-## 2)  PCA and Linear Models
+## 2)  [PCA and Linear Models](https://github.com/karanpandyaa/Applied-Machine-Learning/blob/main/PCA%20and%20Linear%20Models.pdf)
 
 In this project I explored linear projection, classification, and regression methods, again on digit recognition and temperature prediction.  
 The aims of this were:
@@ -18,7 +18,7 @@ The aims of this were:
 - Gain practice using visualizations and analysis to better understand the models and their effectiveness
 - Gain experience in classification and regression applications
 
-## 3) PDFs and Outliers
+## 3) [PDFs and Outliers](https://github.com/karanpandyaa/Applied-Machine-Learning/blob/main/PDFs%20and%20Outliers.pdf)
 
 In this project I explored methods to estimate probability functions and to robustly estimate statistics in the presence of corrupted or missing data.
 The aims of this were:
