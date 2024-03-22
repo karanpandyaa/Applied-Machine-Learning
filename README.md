@@ -14,14 +14,14 @@ The aims of this were:
 
 In this project I explored linear projection, classification, and regression methods, again on digit recognition and temperature prediction.  
 The aims of this were:
-Become familiar with PCA, Linear Logistic Regression, SVM, and Linear Regression methods. 
-Gain practice using visualizations and analysis to better understand the models and their effectiveness
-Gain experience in classification and regression applications
+- Become familiar with PCA, Linear Logistic Regression, SVM, and Linear Regression methods. 
+- Gain practice using visualizations and analysis to better understand the models and their effectiveness
+- Gain experience in classification and regression applications
 
 ## PDFs and Outliers
 
 In this project I explored methods to estimate probability functions and to robustly estimate statistics in the presence of corrupted or missing data.
 The aims of this were:
-Be able to estimate probability functions using several methods: per-feature 1D histograms, clustering for joint histograms, and mixture of Gaussian models.
-Be able to estimate statistics, such as mean, standard deviation, min, and max while being robust to data values that are incorrect or missing.
+- Be able to estimate probability functions using several methods: per-feature 1D histograms, clustering for joint histograms, and mixture of Gaussian models.
+- Be able to estimate statistics, such as mean, standard deviation, min, and max while being robust to data values that are incorrect or missing.
 
