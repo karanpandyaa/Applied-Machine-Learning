@@ -4,12 +4,12 @@
 In this project I explored instance-based methods on two problems: handwritten digit recognition and temperature prediction. 
 
 The aims of this were:
-```
-Gain experience with machine learning methods based on retrieval, particularly K-means clustering, KNN classification, and KNN regression
-Get experience working with FAISS, which provides much faster search and is very useful in practice. 
-Learn how feature representations can impact performance
-Get practice selecting parameters using a validation set (stretch goals)
-```
+
+1. Gain experience with machine learning methods based on retrieval, particularly K-means clustering, KNN classification, and KNN regression
+2. Get experience working with FAISS, which provides much faster search and is very useful in practice. 
+3. Learn how feature representations can impact performance
+4. Get practice selecting parameters using a validation set (stretch goals)
+
 ## 2)  PCA and Linear Models
 
 In this project I explored linear projection, classification, and regression methods, again on digit recognition and temperature prediction.  
