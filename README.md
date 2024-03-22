@@ -1,5 +1,5 @@
 # Applied-Machine-Learning
-## 1) Instance Based Methods
+## 1) [Instance Based Methods](https://github.com/karanpandyaa/Applied-Machine-Learning/blob/main/Instance_based_methods.pdf)
 
 In this project I explored instance-based methods on two problems: handwritten digit recognition and temperature prediction. 
 
