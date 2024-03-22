@@ -18,7 +18,7 @@ The aims of this were:
 - Gain practice using visualizations and analysis to better understand the models and their effectiveness
 - Gain experience in classification and regression applications
 
-## PDFs and Outliers
+## 3) PDFs and Outliers
 
 In this project I explored methods to estimate probability functions and to robustly estimate statistics in the presence of corrupted or missing data.
 The aims of this were:
